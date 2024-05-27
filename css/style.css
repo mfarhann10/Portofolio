@@ -1,0 +1,55 @@
+.profile-img{
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+li{
+    list-style: none;
+}
+
+body{
+    background-color: #020024;
+}
+
+.name{
+    font-weight: bold;
+    color: #fff;
+}
+
+.name h1{
+    margin: 0;
+    padding: 0;
+}
+
+.section-header{
+    color: #fff;
+    display: flex;
+    top: 30px;
+    right: 20px;
+    position: absolute;
+}
+
+.section-list{
+    display: flex;
+    gap: 20px;
+    justify-content: end;
+    align-items: end;
+    flex-wrap: nowrap;
+    
+}
+
+.container{
+    position: relative;
+    padding: 20px;
+}
+
+p{
+    color: #fff;
+}
+
+footer{
+    color: #fff;
+}
+
